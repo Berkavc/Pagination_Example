@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pagination_example</string>
+
+    <!-- 1) Main Page: -->
+    <string name="main_page_list_empty">No data available!> </string>
+    <string name="main_page_refresh"><u>Refresh</u> </string>
+
+</resources>
